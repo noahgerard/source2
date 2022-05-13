@@ -66,7 +66,7 @@ function Counter() {
 
 export default function Home() {
 	return (
-		<div>
+		<div className="w-full">
 			<Head>
 				<title>Source 2.0</title>
 				<meta name="description" content="Website for Source 2.0 Conference" />
@@ -75,7 +75,7 @@ export default function Home() {
 
 			<Navbar />
 
-			<main className="justify-center text-center font-thin">
+			<main className="justify-center text-center font-thin w-full">
 				<div className="text-white barlow">
 					<p className="my-auto text-4xl lg:text-6xl mt-20 lg:mt-40 drop-shadow-2xl">DYA&nbsp;SOUTHEAST &nbsp;REGIONAL&nbsp;TEAM</p>
 					<p className="my-auto text-2xl lg:text-4xl py-4 lg:py-15 drop-shadow-2xl">PRESENTS</p>
