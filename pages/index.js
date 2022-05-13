@@ -66,7 +66,7 @@ function Counter() {
 
 export default function Home() {
 	return (
-		<div className="w-full">
+		<div>
 			<Head>
 				<title>Source 2.0</title>
 				<meta name="description" content="Website for Source 2.0 Conference" />
@@ -75,16 +75,16 @@ export default function Home() {
 
 			<Navbar />
 
-			<main className="justify-center text-center font-thin w-full">
+			<main className="justify-center text-center font-thin">
 				<div className="text-white barlow">
 					<p className="my-auto text-4xl lg:text-6xl mt-20 lg:mt-40 drop-shadow-2xl">DYA&nbsp;SOUTHEAST &nbsp;REGIONAL&nbsp;TEAM</p>
 					<p className="my-auto text-2xl lg:text-4xl py-4 lg:py-15 drop-shadow-2xl">PRESENTS</p>
-					<p className="text-white my-auto text-8xl lg:text-[18rem] py-5 lg:py-20 drop-shadow-2xl lumios">SOURCE&nbsp;2.0</p>
+					<p className="text-white my-auto text-6xl lg:text-[18rem] py-5 lg:py-20 drop-shadow-2xl lumios">SOURCE&nbsp;2.0</p>
 
-					<div className="fill-white w-[22rem] mx-auto lg:w-full mb-10 lg:mb-0 h-40 barlow text-2xl justify-start text-left lg:justify-center lg:text-center">
-						<p className="m-2 block lg:inline"><PersonFill className="h-10 block lg:inline m-2 w-fit" />175 Spots</p>
-						<p className="h-10 m-2 block lg:inline"><CalendarCheck className="h-10 block lg:inline my-auto m-2 w-fit" />3 Nights</p>
-						<p className="h-10 m-2 block lg:inline"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asherville, NC</p>
+					<div className="fill-white w-full mx-auto lg:w-full mb-10 lg:mb-0 h-40 barlow text-2xl justify-center text-center">
+						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><PersonFill className="h-10 block lg:inline my-auto m-2 w-fit" />175 Spots</p>
+						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><CalendarCheck className="h-10 block lg:inline my-auto m-2 w-fit" />3 Nights</p>
+						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asherville, NC</p>
 					</div>
 				</div>
 
