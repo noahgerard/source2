@@ -154,6 +154,10 @@ export default function Home() {
 						Registration fee is <b className="font-bold">250$ (USD)</b>
 					</div>
 
+					<Link href="https://form.jotform.com/220867247316156">
+						<a className="barlow mb-10 -mt-[8rem] text-blue-600 w-fit text-2xl lg:text-3xl mx-auto border-b-2 border-gray-300 hover:border-orange-400 flex items-center transiton-all duration-200">Lake Junaluska Conference center website</a>
+					</Link>
+
 					<div className="w-full h-40 justify-center text-center">
 						<Link href="https://form.jotform.com/220867247316156">
 							<a className="barlow text-4xl mx-auto h-20 w-fit p-8 bg-white hover:text-orange-400 rounded flex items-center transiton-all duration-200 shadow-xl">Register now</a>
