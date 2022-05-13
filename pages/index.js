@@ -131,6 +131,21 @@ export default function Home() {
 							We encourage all youth to attend the event as this will be a great resource for our youth to come together, grow in faith, and build meaningful connections.
 						</p>
 						<br />
+						<p className="text-3xl font-bold">SOURCE 2022 will include:</p>
+							<ul>
+								<li>Quarbana</li>
+								<li>Adoration</li>
+								<li>Faith-based group discussions</li>
+								<li>Speakers</li>
+								<li>Icebreakers</li>
+								<li>Group activities (Including outdoor activities)</li>
+							</ul>
+						
+						<br />
+						<p>
+							There will be chaperones for all high schoolers. Anyone who has received the safe-environment training from our diocese is welcome to be a chaperone as well. Just fill out the same registration form with your specific details.
+						</p>
+						<br />
 						<p>
 							Registration started and cost is $250 per person for 4 day stay, 3 nights, and food.
 						</p>
@@ -144,9 +159,9 @@ export default function Home() {
 
 					<p id="about" className="text-5xl lg:text-6xl barlow pb-5">More information</p>
 					<div className="lg:w-[60rem] mx-auto barlow text-2xl px-4 h-fit mb-[10rem]">
-						<p>Starts <b className="font-bold">Thursday, June 9th and ends on Sunday, June 12th</b> (4 days, 3 nights) 
-						This is a stay-in conference so food and accommodations are included in the registration fee
-						Location is at a <b className="font-bold">Conference Center</b> in Asheville, North Carolina.
+						<p>Starts <b className="font-bold">Thursday, June 9th and ends on Sunday, June 12th</b> (4 days, 3 nights).
+						<br />This is a stay-in conference so food and accommodations are included in the registration fee.
+						<br />Location is at a <b className="font-bold">Lake Junaluska Conference Center</b> in Asheville, North Carolina.
 						</p>
 						
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3247.107200750442!2d-82.98177758394317!3d35.5263484460563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8859775b31379837%3A0x88b16468f613916c!2sHillside%20Lodge!5e0!3m2!1sen!2sus!4v1652408915850!5m2!1sen!2sus"  className="mx-auto m-4 w-full h-[30rem] lg:w-[40rem]" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
