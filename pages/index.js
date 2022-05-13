@@ -122,11 +122,11 @@ export default function Home() {
 					<br />
 					<div className="w-fit lg:w-[60rem] mx-auto barlow text-2xl px-4">
 						<p className="">
-							SOURCE 2022 is a conference held by the St. Thomas Syro Malabar Diocese of Chicago's youth movement, Diocesan Youth Apostolate (DYA), which brings together high school students, college students, and young adults from across the Southeast Region to learn more about their Syro-Malabar faith while growing in fellowship.
+							SOURCE 2022 is a conference held by the St. Thomas Syro Malabar Diocese of Chicago&apos;s youth movement, Diocesan Youth Apostolate (DYA), which brings together high school students, college students, and young adults from across the Southeast Region to learn more about their Syro-Malabar faith while growing in fellowship.
 						</p>
 						<br />
 						<p>The Southeast Region comprises of the North Carolina, Georgia, and Florida parishes.
-							This conference was held previously in 2013 and was hosted by St. Joseph's Syro Malabar parish in Tampa.
+							This conference was held previously in 2013 and was hosted by St. Joseph&apos;s Syro Malabar parish in Tampa.
 							This year, SOURCE will be held in Asheville, North Carolina from <b className="font-bold">Thursday, June 9th to Sunday, June 12th.</b>
 							We encourage all youth to attend the event as this will be a great resource for our youth to come together, grow in faith, and build meaningful connections.
 						</p>
