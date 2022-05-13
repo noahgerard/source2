@@ -84,7 +84,7 @@ export default function Home() {
 					<div className="fill-white w-full mx-auto lg:w-full mb-10 lg:mb-0 h-40 barlow text-2xl justify-center text-center">
 						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><PersonFill className="h-10 block lg:inline my-auto m-2 w-fit" />175 Spots</p>
 						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><CalendarCheck className="h-10 block lg:inline my-auto m-2 w-fit" />3 Nights</p>
-						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asherville, NC</p>
+						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asheville, NC</p>
 					</div>
 				</div>
 
@@ -154,7 +154,7 @@ export default function Home() {
 						Registration fee is <b className="font-bold">250$ (USD)</b>
 					</div>
 
-					<Link href="https://form.jotform.com/220867247316156">
+					<Link href="https://lakejunaluska.com/">
 						<a className="barlow mb-10 -mt-[8rem] text-blue-600 w-fit text-2xl lg:text-3xl mx-auto border-b-2 border-gray-300 hover:border-orange-400 flex items-center transiton-all duration-200">Lake Junaluska Conference center website</a>
 					</Link>
 
