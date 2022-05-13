@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -15,11 +16,11 @@ font-family: 'Lumious';
 }
 
 .lumios {
-	font-family: 'Lumious', sans-serif;
+	font-family: 'Dancing Script', sans-serif;
 }
 
 html, body, body > div:first-child, div#__next,
 	div#__next > div {
-	font-family: 'Lumious', sans-serif;
+	font-family: 'Dancing Script', sans-serif;
     height: 100%;
 }
