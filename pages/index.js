@@ -79,12 +79,12 @@ export default function Home() {
 				<div className="text-white barlow">
 					<p className="my-auto text-4xl lg:text-6xl mt-20 lg:mt-40 drop-shadow-2xl">DYA&nbsp;SOUTHEAST &nbsp;REGIONAL&nbsp;TEAM</p>
 					<p className="my-auto text-2xl lg:text-4xl py-4 lg:py-15 drop-shadow-2xl">PRESENTS</p>
-					<p className="text-white my-auto text-6xl lg:text-[18rem] py-5 lg:py-20 drop-shadow-2xl lumios">SOURCE&nbsp;2.0</p>
+					<p className="text-white my-auto text-5xl md:text-7xl lg:text-[12rem] py-5 lg:py-20 drop-shadow-2xl lumios">SOURCE&nbsp;2.0</p>
 
 					<div className="fill-white w-full mx-auto lg:w-full mb-10 lg:mb-0 h-40 barlow text-2xl justify-center text-center">
-						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><PersonFill className="h-10 block lg:inline my-auto m-2 w-fit" />175 Spots</p>
-						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><CalendarCheck className="h-10 block lg:inline my-auto m-2 w-fit" />3 Nights</p>
-						<p className="mx-auto h-10 m-2 block lg:inline w-fit"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asheville, NC</p>
+						<p className="mx-auto h-10 m-2 block lg:inline"><PersonFill className="h-10 block lg:inline my-auto m-2 w-fit" />175 Spots</p>
+						<p className="mx-auto h-10 m-2 block lg:inline"><CalendarCheck className="h-10 block lg:inline my-auto m-2 w-fit" />3 Nights</p>
+						<p className="mx-auto h-10 m-2 block lg:inline"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asheville, NC</p>
 					</div>
 				</div>
 
@@ -147,7 +147,7 @@ export default function Home() {
 						</p>
 						<br />
 						<p>
-							Registration started and cost is $250 per person for 4 day stay, 3 nights, and food.
+							Registration has started and the cost is $250 per person for 4 days, 3 nights, and food.
 						</p>
 
 						<div className="w-full pt-8 h-40 justify-center text-center">
@@ -161,10 +161,10 @@ export default function Home() {
 					<div className="lg:w-[60rem] mx-auto barlow text-2xl px-4 h-fit mb-[10rem]">
 						<p>Starts <b className="font-bold">Thursday, June 9th and ends on Sunday, June 12th</b> (4 days, 3 nights).
 						<br />This is a stay-in conference so food and accommodations are included in the registration fee.
-						<br />Location is at a <b className="font-bold">Lake Junaluska Conference Center</b> in Asheville, North Carolina.
+						<br />Location is at the <b className="font-bold">Lake Junaluska Conference Center</b> in Asheville, North Carolina.
 						</p>
 						
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3247.107200750442!2d-82.98177758394317!3d35.5263484460563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8859775b31379837%3A0x88b16468f613916c!2sHillside%20Lodge!5e0!3m2!1sen!2sus!4v1652408915850!5m2!1sen!2sus"  className="mx-auto m-4 w-full h-[30rem] lg:w-[40rem]" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3247.107200750442!2d-82.98177758394317!3d35.5263484460563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8859775b31379837%3A0x88b16468f613916c!2sHillside%20Lodge!5e0!3m2!1sen!2sus!4v1652408915850!5m2!1sen!2sus"  className="mx-auto m-4 w-full h-[30rem] lg:w-[40rem]" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
 						<br />
 						Registration fee is <b className="font-bold">250$ (USD)</b>
 					</div>

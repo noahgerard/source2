@@ -26,7 +26,7 @@ export const Navbar = ({ current = "Home" }) => {
 						<div className="absolute flex h-16 items-center justify-center">
 							<Link href="/">
 								<a>
-									<p className="text-5xl font-normal barlow">SOURCE 2.0</p>
+									<p className="text-4xl md:text-3xl font-extrabold barlow">SOURCE 2.0</p>
 								</a>
 							</Link>
 						</div>
@@ -40,7 +40,7 @@ export const Navbar = ({ current = "Home" }) => {
 										{navigation.map((item) => (
 											<a key={item.name} href={item.href} className={classNames(
 												(item.name == current) ? 'text-gray-900 border-violet-500' : 'border-violet-800 text-gray-900 hover:text-orange-400',
-												'border-b-3 px-3 py-2 pb-1 mb-1 font-medium font-sans text-xl transition ease-in-out duration-200 tracking-wide'
+												'border-b-3 px-3 md:px-1  py-2 pb-1 mb-1 font-medium font-sans text-xl transition ease-in-out duration-200 tracking-wide'
 											)}>
 												{item.name}
 											</a>
