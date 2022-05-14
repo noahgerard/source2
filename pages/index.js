@@ -82,9 +82,9 @@ export default function Home() {
 					<p className="text-white my-auto text-5xl md:text-7xl lg:text-[12rem] py-5 lg:py-20 drop-shadow-2xl lumios">SOURCE&nbsp;2.0</p>
 
 					<div className="fill-white w-full mx-auto lg:w-full mb-10 lg:mb-0 h-40 barlow text-2xl justify-center text-center">
-						<p className="mx-auto h-10 m-2 block lg:inline"><PersonFill className="h-10 block lg:inline my-auto m-2 w-fit" />175 Spots</p>
-						<p className="mx-auto h-10 m-2 block lg:inline"><CalendarCheck className="h-10 block lg:inline my-auto m-2 w-fit" />3 Nights</p>
-						<p className="mx-auto h-10 m-2 block lg:inline"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asheville, NC</p>
+						<p className="h-10 m-2 block lg:inline"><PersonFill className="h-10 block lg:inline my-auto m-2 w-fit" />175 Spots</p>
+						<p className="h-10 m-2 block lg:inline"><CalendarCheck className="h-10 block lg:inline my-auto m-2 w-fit" />3 Nights</p>
+						<p className="h-10 m-2 block lg:inline"><PinMap className="h-10 block lg:inline my-auto m-2 w-fit" />Asheville, NC</p>
 					</div>
 				</div>
 
