@@ -19,7 +19,7 @@ We encourage all youth to attend the event as this will be a great resource for 
 Registration started and cost is $250 per person for 4 day stay, 3 nights, and food. Registration link is on DYA Southeast Region Instagram Bio.*/
 
 function Counter() {
-	const count = "2022-05-17";
+	const count = "2022-05-24";
 	const [days, setDays] = React.useState(0);
 	const [hours, setHours] = React.useState(0);
 	const [minutes, setMinutes] = React.useState(0);
