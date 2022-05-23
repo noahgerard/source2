@@ -153,7 +153,7 @@ export default function Home() {
 						<br />
 						<br />
 
-						If participants choose to fly, we encourage them to fly into <Link href="https://goo.gl/maps/afg1KrYLko946Dw89"><a className="text-blue-600 border-b-2 border-gray-300">Charlotte Douglas International Airport (CLT)</a></Link>. Transportation will be provided to/from the airport.
+						If participants choose to fly, we encourage them to fly into <Link href="https://goo.gl/maps/afg1KrYLko946Dw89"><a className="text-blue-600 border-b-2 border-gray-300">Asheville Regional Airport</a></Link>. If not, <Link href="https://goo.gl/maps/afg1KrYLko946Dw89"><a className="text-blue-600 border-b-2 border-gray-300">Charlotte Douglas International Airport (CLT)</a></Link> and <Link href="https://g.page/HJAIA?share"><a className="text-blue-600 border-b-2 border-gray-300">Hartsfield-Jackson Atlanta International Airport (ATL)</a></Link> are also options. Transportation will be provided to/from the airport.
 						<br />
 						<br />
 
