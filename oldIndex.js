@@ -106,9 +106,15 @@ export default function Home() {
 					</style>
 				</div>
 
-				<div className="relative w-full lg:w-[70vw] h-[10rem] lg:h-[19rem] bg-gradient-to-tl from-pink-500 via-red-500 to-yellow-500 mx-auto z-50 shadow-lg lg:shadow-2xl lg:rounded-xl items-center justify-center text-center flex">
+				<div className="w-full h-40 justify-center text-center">
+					<Link href="https://form.jotform.com/220867247316156">
+						<a className="barlow text-4xl mx-auto h-20 w-fit p-8 bg-white hover:text-orange-400 rounded flex items-center transiton-all duration-200">Register now</a>
+					</Link>
+				</div>
 
-					<p className="text-2xl lg:text-4xl barlow text-white text-center">Registration has ended!</p>
+				<div className="relative w-full lg:w-[70vw] h-[10rem] lg:h-[19rem] bg-gradient-to-tl from-pink-500 via-red-500 to-yellow-500 mx-auto z-50 shadow-lg lg:shadow-2xl lg:rounded-xl">
+					<p className="justify-center text-center text-2xl lg:text-4xl barlow text-white py-2 lg:pt-6">Registration ends in:</p>
+					<Counter />
 				</div>
 
 				<div className="w-full h-fit -mt-[4rem] lg:-mt-[9.5rem] bg-gray-100 text-center">
@@ -141,11 +147,17 @@ export default function Home() {
 						</p>
 						<br />
 						<p>
-							Registration has ENDED and the cost is $250 per person for 4 days, 3 nights, and food.
+							Registration has started and the cost is $250 per person for 4 days, 3 nights, and food.
 						</p>
+
+						<div className="w-full pt-8 h-40 justify-center text-center">
+							<Link href="https://form.jotform.com/220867247316156">
+								<a className="barlow mt-4 text-4xl mx-auto h-20 w-fit p-8 bg-white hover:text-orange-400 rounded flex items-center transiton-all duration-200 shadow-xl">Register now</a>
+							</Link>
+						</div>
 					</div>
 
-					<p id="about" className="text-5xl lg:text-6xl barlow pb-5 pt-10">More information</p>
+					<p id="about" className="text-5xl lg:text-6xl barlow pb-5">More information</p>
 					<div className="lg:w-[60rem] mx-auto barlow text-2xl px-4 h-fit mb-[10rem]">
 						<p>Starts <b className="font-bold">Thursday, June 9th and ends on Sunday, June 12th</b> (4 days, 3 nights).
 						<br />
@@ -169,14 +181,16 @@ export default function Home() {
 						<a className="barlow mb-10 -mt-[8rem] text-blue-600 w-fit text-2xl lg:text-3xl mx-auto border-b-2 border-gray-300 hover:border-orange-400 flex items-center transiton-all duration-200">Lake Junaluska Conference center website</a>
 					</Link>
 
-					<div className="h-20">
-
+					<div className="w-full h-40 justify-center text-center">
+						<Link href="https://form.jotform.com/220867247316156">
+							<a className="barlow text-4xl mx-auto h-20 w-fit p-8 bg-white hover:text-orange-400 rounded flex items-center transiton-all duration-200 shadow-xl">Register now</a>
+						</Link>
 					</div>
 				</div>
 
 			</main>
 
-			<div className="-mt-10 bg-white flex h-20 lg:h-32 items-center justify-center border-t-2 border-gray-200 drop-shadow-2xl barlow">
+			<div className="bg-white flex h-20 lg:h-32 items-center justify-center border-t-2 border-gray-200 drop-shadow-2xl barlow">
 				<Transition show={true}
 					enter="transition ease-out duration-100"
                     enterFrom="transform opacity-0 scale-95"

@@ -12,7 +12,7 @@ function classNames(...classes) {
 
 const navigation = [
 	{ name: 'About', href: '#about' },
-	{ name: 'Register', href: 'https://form.jotform.com/220867247316156' },
+//	{ name: 'Register', href: 'https://form.jotform.com/220867247316156' },
 	{ name: 'Instagram', href: 'https://www.instagram.com/dyasoutheast/' },
 	{ name: 'Location', href: 'https://goo.gl/maps/3u93qzFCUYpBTRGL7' },
 ]
